@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Tyler</h1>
 <h3 align="center">I am a full stack developer who is highly flexible, established learner, who is continuously expanding my knowledge to maintain current and upcoming coding compliance to maximize performance, quality, and efficiency.</h3>
 
-- 🔭 I’m currently working on **100 Hour Project**
+- 🔭 I’m currently working on **Many projects! Feel free to ask me about them :D**
 
-- 🌱 I’m currently learning **Javascript, MongoDB, SQL,**
-
-- 👨‍💻 All of my projects are available at [www.tbeckdesigns.com](www.tbeckdesigns.com)
+- 🌱 I’m currently learning **Javascript, MongoDB, SQL, React,**
+<!-- 
+- 👨‍💻 All of my projects are available at [www.tbeckdesigns.com](www.tbeckdesigns.com) -->
 
 - 💬 Ask me about **HTML-5, CSS, JS**
 
