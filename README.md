@@ -1,4 +1,4 @@
-![My Image](Banner.png)
+![My Image](Banner-two.png)
 <h3 align="center">I am a full stack developer who is highly flexible, established learner, who is continuously expanding my knowledge to maintain current and upcoming coding compliance to maximize performance, quality, and efficiency.</h3>
 
 - 🔭 I’m currently working on **many projects! Feel free to ask me about them!**
