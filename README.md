@@ -1,13 +1,13 @@
 ![My Image](Banner.png)
 <h3 align="center">I am a full stack developer who is highly flexible, established learner, who is continuously expanding my knowledge to maintain current and upcoming coding compliance to maximize performance, quality, and efficiency.</h3>
 
-- 🔭 I’m currently working on **Many projects! Feel free to ask me about them :)**
+- 🔭 I’m currently working on **many projects! Feel free to ask me about them! **
 
-- 🌱 I’m currently learning **Javascript, MongoDB, SQL, React,**
-<!-- 
-- 👨‍💻 All of my projects are available at [www.tbeckdesigns.com](www.tbeckdesigns.com) -->
+- 🌱 I’m currently learning **Javascript, MongoDB, SQL, React**
 
-- 💬 Ask me about **HTML-5, CSS, JS**
+- 👨‍💻 All of my projects are available at **[tylerbeck-webdev.netlify.app](https://tylerbeck-webdev.netlify.app)**
+
+<!-- - 💬 Ask me about **HTML-5, CSS, JS** -->
 
 - 📫 How to reach me **softwaretpd2035@gmail.com**
 
