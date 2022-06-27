@@ -3,11 +3,7 @@
 
 - 🔭 I’m currently working on **many projects! Feel free to ask me about them!**
 
-- 🌱 I’m currently learning **Javascript, MongoDB, SQL, React**
-
 - 👨‍💻 All of my projects are available at **[tylerbeck-webdev.netlify.app](https://tylerbeck-webdev.netlify.app)**
-
-<!-- - 💬 Ask me about **HTML-5, CSS, JS** -->
 
 - 📫 How to reach me **softwaretpd2035@gmail.com**
 
