@@ -22,6 +22,52 @@
 <h3 align="center">I am a full stack developer who is highly flexible, established learner, who is continuously expanding my knowledge to maintain current and upcoming coding compliance to maximize performance, quality, and efficiency.</h3>
 
 
+<h1 align="center">Projects</h1>
+<table bordercolor="#66b2b2">
+  
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">Physical Therapy Website</h3>
+        <br />
+      <img src="Physical-therapy.png" width="100%" alt="Travel App"/>
+        <br />
+    <p align="center">
+      <a href="https://github.com/Mussina123/Physical-Therapy-Website" target="_blank">
+       <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
+        </a>  
+        <a href="https://healing-physical-therapy.netlify.app/" target="_blank">
+        <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
+        </a>
+     </p>
+            <p><strong>HTML5, CSS, Javascript, jQuery </strong> - Responsive Physical Therapy Website for a small local company!</p>
+     </td>
+    </tr>
+ 
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">LUX REAL ESTATE</h3>
+        <br />
+      <img src="LUX.png" width="100%" alt="LUX Real Estate"/>
+        <br />
+    <p align="center">
+      <a href="https://github.com/Mussina123/lux-real-estate-landing-page" target="_blank">
+       <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
+        </a>  
+        <a href="https://lux-real-estate-tb-dev.netlify.app/" target="_blank">
+        <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
+        </a>
+     </p>
+            <p><strong>Javascript, HTML5, CSS: LUX Real Estate Website Landing Page</p>
+     </td>
+    </tr>
+  
+</table>
+
+
+
+
+
+
 
 
 <h3 align="left">Languages and Tools:</h3>
