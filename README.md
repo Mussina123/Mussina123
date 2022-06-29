@@ -77,7 +77,7 @@
     <td width="50%" valign="top">
       <h3 align="center">NASA Picture Of The Day!</h3>
         <br />
-      <a href="https://nasaimageoftheday.netlify.app/"><img src="NASA.png" height="265px" /></a> 
+      <a href="https://nasaimageoftheday.netlify.app/"><img src="NASA.png" height="260px" /></a> 
         <br />
     <p align="center">
       <a href="https://github.com/Mussina123/NASA-API-" target="_blank">
