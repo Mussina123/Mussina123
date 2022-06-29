@@ -23,13 +23,13 @@
 
 
 <h1 align="center">Projects</h1>
-<table bordercolor="#66b2b2">
+<table bordercolor="#66b2b2" >
   
   <tr>
     <td width="50%" valign="top">
       <h3 align="center">Physical Therapy Website</h3>
         <br />
-      <img src="Physical-therapy.png" width="100%" alt="Physical Therapy"/>
+      <a href="https://healing-physical-therapy.netlify.app/"><img src="Physical-therapy.png"/></a> 
         <br />
     <p align="center">
       <a href="https://github.com/Mussina123/Physical-Therapy-Website" target="_blank">
@@ -40,14 +40,16 @@
         </a>
      </p>
             <p><strong>HTML5, CSS, Javascript, jQuery </strong> - Responsive Physical Therapy Website for a small local company!</p>
-     </td>
+    </td>
     </tr>
+  
+ 
  
   <tr>
     <td width="50%" valign="top">
       <h3 align="center">LUX REAL ESTATE</h3>
         <br />
-      <img src="LUX.png" width="100%" alt="LUX Real Estate"/>
+      <a href="https://lux-real-estate-tb-dev.netlify.app/"><img src="LUX.png" /></a> 
         <br />
     <p align="center">
       <a href="https://github.com/Mussina123/lux-real-estate-landing-page" target="_blank">
@@ -61,11 +63,11 @@
      </td>
     </tr>
   
-  <tr>
+  <tr width="500px">
     <td width="50%" valign="top">
       <h3 align="center">Travel Journal</h3>
         <br />
-      <img src="React-travel-journal.png" width="100%" alt="Travel Journal"/>
+      <a href="https://tb-travel-journal.netlify.app/"><img src="React-travel-journal.png" /></a> 
         <br />
     <p align="center">
       <a href="https://github.com/Mussina123/React-travel-journal" target="_blank">
@@ -83,7 +85,7 @@
     <td width="50%" valign="top">
       <h3 align="center">NASA Picture Of The Day!</h3>
         <br />
-      <img src="NASA.png" width="100%" alt="NASA Image"/>
+      <a href="https://nasaimageoftheday.netlify.app/"><img src="NASA.png" /></a> 
         <br />
     <p align="center">
       <a href="https://github.com/Mussina123/NASA-API-" target="_blank">
@@ -98,12 +100,6 @@
     </tr>
   
 </table>
-
-
-
-
-
-
 
 
 <h3 align="left">Languages and Tools:</h3>
