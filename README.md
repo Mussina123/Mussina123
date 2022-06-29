@@ -39,7 +39,7 @@
         <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
         </a>
      </p>
-            <p><strong>HTML5, CSS, Javascript, jQuery </strong> - Responsive Physical Therapy Website for a small local company!</p>
+            <p><strong>HTML5, CSS3, Javascript, jQuery </strong> - Responsive Physical Therapy Website for a small local company!</p>
     </td>
     <td width="50%" valign="top">
       <h3 align="center">LUX REAL ESTATE</h3>
@@ -54,7 +54,7 @@
         <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
         </a>
      </p>
-            <p><strong>Javascript, HTML5, CSS: LUX Real Estate Website Landing Page</p>
+      <p><strong>HTML5, CSS3, Javascript </strong> - LUX Real Estate Website Landing Page</p>
      </td>
     </tr>
   
@@ -72,7 +72,7 @@
         <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
         </a>
      </p>
-            <p><strong>React, HTML5, CSS3, Vanilla Javascript</strong> Travel Journal built using React with dynamic rendering!</p>
+            <p><strong>REACT, HTML5, CSS3, Vanilla Javascript</strong> - Travel Journal built using React with dynamic rendering!</p>
     </td>
     <td width="50%" valign="top">
       <h3 align="center">NASA Picture Of The Day!</h3>
@@ -87,7 +87,7 @@
         <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
         </a>
      </p>
-            <p><strong>HTML5, CSS3, & Javascript</strong> - NASA Image of the day, beautifully rendered with background stars animation! </p>
+            <p><strong>HTML5, CSS3, RESTful API & Javascript</strong> - NASA Image of the day, beautifully rendered with background stars animation! </p>
      </td>
     </tr>
   
