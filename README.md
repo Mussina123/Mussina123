@@ -29,7 +29,7 @@
     <td width="50%" valign="top">
       <h3 align="center">Physical Therapy Website</h3>
         <br />
-      <img src="Physical-therapy.png" width="100%" alt="Travel App"/>
+      <img src="Physical-therapy.png" width="100%" alt="Physical Therapy"/>
         <br />
     <p align="center">
       <a href="https://github.com/Mussina123/Physical-Therapy-Website" target="_blank">
@@ -58,6 +58,42 @@
         </a>
      </p>
             <p><strong>Javascript, HTML5, CSS: LUX Real Estate Website Landing Page</p>
+     </td>
+    </tr>
+  
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">Travel Journal</h3>
+        <br />
+      <img src="React-travel-journal.png" width="100%" alt="Travel Journal"/>
+        <br />
+    <p align="center">
+      <a href="https://github.com/Mussina123/React-travel-journal" target="_blank">
+       <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
+        </a>  
+        <a href="https://tb-travel-journal.netlify.app/" target="_blank">
+        <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
+        </a>
+     </p>
+            <p><strong>React, HTML5, CSS3, Vanilla Javascript</strong> Travel Journal built using React with dynamic rendering!</p>
+     </td>
+    </tr>
+  
+   <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">NASA Picture Of The Day!</h3>
+        <br />
+      <img src="NASA.png" width="100%" alt="NASA Image"/>
+        <br />
+    <p align="center">
+      <a href="https://github.com/Mussina123/NASA-API-" target="_blank">
+       <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
+        </a>  
+        <a href="https://nasaimageoftheday.netlify.app/" target="_blank">
+        <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
+        </a>
+     </p>
+            <p><strong>HTML5, CSS3, & Javascript</strong> - NASA Image of the day, beautifully rendered with background stars animation! </p>
      </td>
     </tr>
   
