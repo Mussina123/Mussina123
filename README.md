@@ -1,4 +1,4 @@
-![My Image](Banner-one.png)
+![My Image](TB-banner.png)
 
 <p align="center">
 
