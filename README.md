@@ -45,7 +45,7 @@
     <td width="50%" valign="top">
       <h3 align="center">TB Electronics</h3>
         <br />
-      <a href="https://ecomm-mussina123.vercel.app/"><img src="Ecomm.png" /></a> 
+      <a href="https://ecomm-mussina123.vercel.app/"><img src="TB-Electronics.png" /></a> 
         <br />
     <p align="center">
       <a href="https://github.com/Mussina123/ecomm" target="_blank">
