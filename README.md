@@ -1,13 +1,5 @@
 # 👋 What I've Been Working On
 
-> Fullstack engineer focused on backend architecture, infrastructure, and
-> performance at scale. Lately I've been shifting from primarily frontend work
-> into deeper backend and platform engineering.
-
----
-
-## 🚀 Recent Focus
-
 ### ⚙️ Backend & Infrastructure
 - Architecting multi-tier caching services to reduce external API costs and
   improve performance at scale
